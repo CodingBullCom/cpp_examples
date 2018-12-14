@@ -1,6 +1,6 @@
 // File: counter.cpp
 // Created on: 30th Dec 2016
-// Updated on: 30th May 2018
+// Updated on: 14th Dec 2018
 // Author: Pawan Kumar Singh [pawan@codingbull.com]
 // http://www.codingbull.com
 //
